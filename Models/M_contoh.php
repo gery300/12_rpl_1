@@ -2,7 +2,8 @@
 
 class m_contoh
 {
-
+    //buat 3 fungsi,tampil, edit, hapus
+    
     public function tampil() {
         //fungsi untuk menampilkan data dari database
     }
